@@ -1,4 +1,4 @@
-# Custom ElT Project
+# Simple ElT Project
 
 A simple project that demonstrates Extract, Transform and Load (ELT) process and utilizes Docker, PostgreSQL, Airflow and DBT.
 
